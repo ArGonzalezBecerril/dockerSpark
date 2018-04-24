@@ -1,4 +1,5 @@
-Solid](https://image.ibb.co/iBcbcS/1_titulo_Documento.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://image.ibb.co/iBcbcS/1_titulo_Documento.png)](https://nodesource.com/products/nsolid)
+
 ### ¿Que es docker?
 Es una plataforma de software que nos permite crear, probar e implementar aplicaciones rápidamente ya que empaqueta software en unidades estandarizadas llamadas contenedores.
 
